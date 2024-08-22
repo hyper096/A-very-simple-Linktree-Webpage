@@ -6,7 +6,7 @@ This is a very simple linktree webpage, as the title specifies. It is based on m
 
 ## Can I use it myself?
 
-Yes, anyone can use this code. You can costumize it, modify it, do anything with it! Go crazy! Also f you want, you can show me the linktree page you have created with this code by contacting me. By the way, don't forget to replace certain values. Some comments should be added to the code soon.  
+Yes, anyone can use this code. You can costumize it, modify it, do anything with it! Go crazy! Also if you want, you can show me the linktree page you have created with this code by contacting me. By the way, don't forget to replace certain values. Some comments should be added to the code soon.  
 PS: No need to credit me.
 
 ## Will it be updated?
